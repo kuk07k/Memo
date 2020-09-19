@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TOPLauncherConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>dydgur1996</name>
+  <password>dydgur123</password>
+  <remember>true</remember>
+  <server>toj.mooo.com</server>
+  <registerLink>http://toj.mooo.com/top/register.php</registerLink>
+</TOPLauncherConfig>

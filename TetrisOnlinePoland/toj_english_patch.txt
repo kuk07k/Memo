@@ -1,0 +1,35 @@
+Tetris Online English Patch 1.04
+
+[credits]
+BigAl95
+Magnanimous
+mcgif
+meow
+mino
+virulent
+Wojtek
+
+[links]
+English Patch topic: http://harddrop.com/forums/index.php?showtopic=2797
+Wojtek's TOJ Stuff topic: http://harddrop.com/forums/index.php?showtopic=1930
+TOJ Customization topic: http://harddrop.com/forums/index.php?showtopic=2051
+
+[changelog]
+1.04 - 2011-08-23
+* added translated file shop_check.png
+* fixed gacha.ipl transparency
+* minor fixes
+
+1.03 - 2010-07-23
+* added TETOCUIT themes
+
+1.02 - 2010-06-29
+* up-to-date versions now longer supported, we use older toj versions as patch base now
+* english patch logo updated
+
+1.01 - 2010-05-15
+* tips translated
+* minor changes
+
+1.00 - 2010-03-04
+* initial release
